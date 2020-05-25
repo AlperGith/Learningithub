@@ -1,1 +1,13 @@
 My first text file.
+
+GitHub commands;
+cd /c
+ls
+git config --global user.name ""
+git config --global user.email ""
+git clone (url) -clons the git depository to the windows
+
+git add test.txt -upload the new text file to the git 
+git status -see what is added
+git commit -m "first commit" test.txt -first commit
+git push -u origin master -after commiting push it to the github
